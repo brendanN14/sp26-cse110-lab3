@@ -6,34 +6,31 @@
 - Sprint / Week:
 
 ## Bobby
-**Yesterday**
-- 
-
-**Today**
-- 
-
-**Blockers**
-- 
+- Yesterday:
+- Today:
+- Blockers:
 
 ## Sydney
-**Yesterday**
-- 
-
-**Today**
-- 
-
-**Blockers**
-- 
+- Yesterday:
+- Today:
+- Blockers:
 
 ## Brendan
-**Yesterday**
-- 
+- Yesterday:
+- Today:
+- Blockers:
 
-**Today**
-- 
+## General Notes
+- Announcements:
+- Updates:
+- Decisions:
+- Follow-up items:
+# Daily Standup Notes
 
-**Blockers**
-- 
+## Meeting Details
+- Date:
+- Time:
+- Sprint / Week:
 
 ## General Notes
 - Announcements:
