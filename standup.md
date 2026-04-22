@@ -25,12 +25,6 @@
 - Updates:
 - Decisions:
 - Follow-up items:
-# Daily Standup Notes
-
-## Meeting Details
-- Date:
-- Time:
-- Sprint / Week:
 
 ## General Notes
 - Announcements:
